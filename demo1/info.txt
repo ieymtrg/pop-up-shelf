@@ -1,0 +1,13 @@
+Interaction Elements Gropu3 : PopUpShelf (2022/02/26 21:19)
+
+demo1.ino
+
+confirmed Tsurugi Ieyama
+
+Stepping   : Nema23
+Servo      : MGS90
+Driver     : L6470
+
+Settings
+L6470's power from 12VDC.
+Arduino's power from USB-B and 9VDC.
